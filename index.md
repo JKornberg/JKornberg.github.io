@@ -107,7 +107,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/safe.png" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/Momo.jpg" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 6-->
@@ -116,7 +116,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/submarine.png" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/Generic.jpg" alt="" />
                         </div>
                     </div>
                 </div>
@@ -377,10 +377,10 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/Momo.jpg" alt="" />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">MoMo involves an iOS application and hardware wristband that encourages children with cerebral palsy to exercise by "gamifying" therapy. MoMo taught me the process of creating a value proposition, performing market analysis, interviewing target audience, and other essential business techniques. The final business plan can be viewed below.</p>
-                                    <button class="btn btn-primary" data-dismiss="modal">
+                                    <button class="btn btn-primary" data-dismiss="modal" onclick='window.open("https://drive.google.com/file/d/1hjsHpvssCjHLk1ZwAV9buaQCd0fXPoTu/view?usp=sharing");'>
                                         View Business Plan
                                     </button>
                                     <button class="btn btn-primary" data-dismiss="modal">
@@ -406,7 +406,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Submarine</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Extras!</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -414,9 +414,9 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/Generic.jpg" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <p class="mb-5">Wow! You made it to this page. I'm working on lots of other things that I can't exactly show you<br>I'm working for <a class="portfolio-link" href="https://www.rdminnovation.com/" target="_blank">RDM Innovation</a> creating an iOS and Android app using Flutter.<br>I'm reading a <a class="portfolio-link" href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=2G0U3VXOYQ0GA&dchild=1&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow+2&qid=1609962759&sprefix=hands+on+machine+learning%2Caps%2C154&sr=8-1" target="_blank">book</a> about Machine Learning and am looking to start a new project soon!<br>I took a Computer Vision course by Satya Mallick and earned a certificate.</p>
                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close Window
