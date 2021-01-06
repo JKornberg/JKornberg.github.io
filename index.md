@@ -303,7 +303,7 @@
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-5">Natural Language Processing for machine learning classification. Implemented cross-validation and BERT deep learning with PyTorch. Top 200 Kaggle submission. Notebooks can be found on my github.</p>
                                     <button class="btn btn-primary">
-                                        <a href="https://drive.google.com/file/d/1-fymkWYkNwa3JNFrlGE4Ce2NFHvHiNbZ/view?usp=sharing">
+                                        <a href="https://drive.google.com/file/d/1-fymkWYkNwa3JNFrlGE4Ce2NFHvHiNbZ/view?usp=sharing" target="_blank">
                                         View Presentation
                                         </a>
                                     </button>
