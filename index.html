@@ -47,7 +47,7 @@
                 <b class="hr anim"></b>
                 <!-- Masthead Subheading-->
                 <p class="masthead-subheading font-weight-light mb-0">Software Engineer - Data Scientist</p>
-                <button class="btn btn-primary mt-3" data-dismiss="modal" onclick="window.open('https://docs.google.com/document/d/1awfl2GttEicmdEpazzkYIrnff5v-J6eBADWZ9cw2460/edit?usp=sharing');">
+                <button class="btn btn-primary mt-3" data-dismiss="modal" onclick="window.open('https://drive.google.com/file/d/1d4LsUATSGLFyKQjheeQbgPtp7qQQsskd/view?usp=sharing');">
                     Resume
                 </button>
             </div>
@@ -262,10 +262,10 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/LucereLabs.jpg" alt="" />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-5"><b>Fall 2020 - Spring 2021</b><br>Developed iOS application that scans video frames using OpenCV to detect presence of bioluminescent light. Primarily focused on developing and implementing OpenCV algorithm in both Python and C++ but also worked on Front-End Swift.<br>Private repository (signed NDA)</p>
+                                    <p class="mb-5"><b>Fall 2020 - Spring 2021</b><br>Developed iOS application that scans video frames using OpenCV to detect presence of bioluminescent light. Primarily focused on developing and implementing OpenCV algorithm in both Python and C++ but also worked on Front-End Swift.<br>Private repository (signed NDA). There is a video demo of the project in the supplied drive folder.</p>
                                     <button class="btn btn-primary">
-                                        <a href="https://drive.google.com/file/d/1d126YF0TE7XfOEHEPEeYHuVjO8GV0ui0/view?usp=sharing">
-                                        View Presentation
+                                        <a href="https://drive.google.com/drive/folders/1doPr8-XeeSBiwlXANqczo4KzIuTgwdsZ?usp=sharing">
+                                        View Files
                                         </a>
                                     </button>
                                     <button class="btn btn-primary" data-dismiss="modal">
