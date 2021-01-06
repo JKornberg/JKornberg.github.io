@@ -162,7 +162,7 @@
                     <div class="col-lg-8 mx-auto">
                         <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19.-->
                         <h4>Name: Jonah Kornberg</h4>
-                        <h4>Email: Kornberg.Jonah[@]gmail.com</h4>
+                        <h4>Email: Kornberg.Jonah@gmail.com</h4>
                     </div>
                 </div>
             </div>
