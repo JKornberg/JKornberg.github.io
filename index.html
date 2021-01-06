@@ -71,7 +71,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/northrop.jpg" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/Northrop.jpg" alt="" />
                         </div>
                     </div>
                     <!-- Portfolio Item 2-->
@@ -221,7 +221,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/northrop.jpg" alt="" />
+                                            <img class="img-fluid rounded mb-5" src="assets/img/portfolio/Northrop.jpg" alt="" />
                                         </div>
                                         <div class="col-lg-6">
                                             <p class="mb-5"><b>Summer 2017-Present</b><br>Experience developing web applications for autonomous deployment and customization of SharePoint websites. Created and updated several interactive webparts using Javascript, HTML, and CSS.<br>Data Visualization with Tableau and active member of GBSD.</p>
