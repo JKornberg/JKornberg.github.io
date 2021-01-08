@@ -47,7 +47,7 @@
                 <b class="hr anim"></b>
                 <!-- Masthead Subheading-->
                 <p class="masthead-subheading font-weight-light mb-0">Software Engineer - Data Scientist</p>
-                <button class="btn btn-primary mt-3" data-dismiss="modal" onclick="window.open('https://drive.google.com/file/d/1d4LsUATSGLFyKQjheeQbgPtp7qQQsskd/view?usp=sharing');">
+                <button class="btn btn-primary mt-3" data-dismiss="modal" onclick="window.open('https://drive.google.com/file/d/1H2pIkuxrgGTN1c02uVzwlQrOFNNv-o0I/view?usp=sharing');">
                     Resume
                 </button>
             </div>
