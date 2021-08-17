@@ -4806,7 +4806,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 @media (min-width: 576px) {
   .jumbotron {
-    padding: 4rem 2rem;
+    padding: 2rem 2rem 1rem 2rem;
   }
 }
 
@@ -10340,4 +10340,8 @@ form .row:first-child .floating-label-form-group {
 
 .jumbotron{
   width: 100%
+}
+
+.childrenBorderless > * {
+  border-top: 0 !important
 }
