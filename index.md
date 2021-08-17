@@ -52,6 +52,30 @@
                 </button>
             </div>
         </header>
+        <!-- About Section-->
+        <section class="page-section bg-primary text-white mb-0" id="about">
+            <div class="container">
+                <!-- About Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-mouse"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- About Section Content-->
+                <div class="row">
+                    <div class="text-center mt-4" style="padding-left: 20px; padding-right: 20px;"><p class="lead">I'm a Computer Science major at the University of Florida. I'm interested in data science, machine learning, computer vision, and application development. I've interned at Northrop Grumman since Summer 2017</p></div>
+                </div>
+                <!-- About Section Button-->
+                <div class="text-center mt-4">
+                    <a class="btn btn-xl btn-outline-light" target="_blank" href="https://github.com/jkornberg">
+                        <i class="fas fa-code mr-2"></i>
+                        Github
+                    </a>
+                </div>
+            </div>
+        </section>
         <!-- Portfolio Section-->
         <section class="page-section portfolio" id="portfolio">
             <div class="container">
@@ -119,30 +143,6 @@
                             <img class="img-fluid" src="assets/img/portfolio/Generic.jpg" alt="" />
                         </div>
                     </div>
-                </div>
-            </div>
-        </section>
-        <!-- About Section-->
-        <section class="page-section bg-primary text-white mb-0" id="about">
-            <div class="container">
-                <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
-                <!-- Icon Divider-->
-                <div class="divider-custom divider-light">
-                    <div class="divider-custom-line"></div>
-                    <div class="divider-custom-icon"><i class="fas fa-mouse"></i></div>
-                    <div class="divider-custom-line"></div>
-                </div>
-                <!-- About Section Content-->
-                <div class="row">
-                    <div class="text-center mt-4" style="padding-left: 20px; padding-right: 20px;"><p class="lead">I'm a Computer Science major at the University of Florida. I'm interested in data science, machine learning, computer vision, and application development. I've interned at Northrop Grumman since Summer 2017</p></div>
-                </div>
-                <!-- About Section Button-->
-                <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" target="_blank" href="https://github.com/jkornberg">
-                        <i class="fas fa-code mr-2"></i>
-                        Github
-                    </a>
                 </div>
             </div>
         </section>

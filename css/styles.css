@@ -169,13 +169,17 @@ sup {
 }
 
 a {
-  color: #fff;
+  color: #ffffff;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
   color: #abb9d1;
   text-decoration: underline;
+}
+
+.dark_link{
+  color: #abb9d1;
 }
 
 a:not([href]):not([class]) {
@@ -6092,8 +6096,13 @@ button.bg-primary:focus {
   background-color: #7a4246 !important;
 }
 
-.bg-secondary {
+.bg-accent {
   background-color: #1D1A22 !important;
+
+}
+
+.bg-secondary {
+  background-color:  #2c3e50!important
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -9994,6 +10003,11 @@ h3 {
   font-size: 2.25rem;
   line-height: 2rem;
 }
+
+.secondary-heading{
+  font-size: 1.75rem;
+}
+
 @media (min-width: 992px) {
   .page-section .page-section-heading {
     font-size: 3rem;
@@ -10322,4 +10336,8 @@ form .row:first-child .floating-label-form-group {
 .portfolio-link{
   color:black;
   text-decoration: underline;
+}
+
+.jumbotron{
+  width: 100%
 }
