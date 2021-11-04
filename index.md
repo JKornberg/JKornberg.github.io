@@ -65,7 +65,7 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="text-center mt-4" style="padding-left: 20px; padding-right: 20px;"><p class="lead">I'm a Computer Science major at the University of Florida. I'm interested in data science, machine learning, computer vision, and application development. I've interned at Northrop Grumman since Summer 2017</p></div>
+                    <div class="text-center mt-4" style="padding-left: 20px; padding-right: 20px;"><p class="lead">Vice President of Software Engineering at RDM Innovation. Recent computer science graduate from the University of Florida. I'm interested in data science, machine learning, computer vision, and application development. My goal is to find ways in which artificial intelligence and machine learning can be democratized and improve the lives of everyday people</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
